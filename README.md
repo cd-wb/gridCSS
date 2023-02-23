@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/cd-wb/gridCSS)
+- Live Site URL: [Live site URL here]( https://cd-wb.github.io/gridCSS/)
 
 ## My process
 
@@ -48,7 +48,7 @@ I leaned the sentacs of the Sass and how i can use it.
 
 To see how you can add code snippets, see below:
 
-```Sass
+```Scss
 $color-Dan: hsl(263, 55%, 52%);
 $color-Jona: hsl(217, 19%, 35%);
 $color-Pat: hsl(219, 29%, 14%);
